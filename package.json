@@ -1,0 +1,25 @@
+{
+  "name": "yargsclimongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmccart3/yargsCLIMongoose.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmccart3/yargsCLIMongoose/issues"
+  },
+  "homepage": "https://github.com/mmccart3/yargsCLIMongoose#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mongoose": "^6.1.2",
+    "yargs": "^17.3.0"
+  }
+}
